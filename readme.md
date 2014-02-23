@@ -1,8 +1,7 @@
 #freespace
 
-Freespace is a simple cross-platform python module, that returns the free disk space for a given path.
+Freespace is a simple cross-platform python module, returning the free disk space for a given path.
 
----
 
 ###Usage
 
@@ -21,4 +20,4 @@ freespace returns an integer in kb, to convert it right away, use
 
 MIT License.
 
-(c) 2014 Michael Detzner
+(c) 2014 CanOfColliders
