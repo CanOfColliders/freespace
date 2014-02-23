@@ -20,4 +20,3 @@ freespace returns an integer in kb, to convert it right away, use
 
 MIT License.
 
-(c) 2014 CanOfColliders
