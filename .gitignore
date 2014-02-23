@@ -1,0 +1,12 @@
+# os generated files, thumbnails ..
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# compiled files
+*.pyc
+
+# swap files
+*.swp
+*~
